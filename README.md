@@ -7,7 +7,7 @@
 
 - 👋 Hi, I'm Avri !
 - 📫 Find me Here  - yoti1492@gmail.com ..
-- 📫 More on my GitHub  - [avri-Here](https://github.com/Avri-Here) ..
+- 🪟 More on my GitHub  - [avriHereHomeRepos](https://github.com/Avri-Here) ..
 <br/>
 
 Always like to learn new topics And technologies, I write code in different languages And computer technician in my free time !
