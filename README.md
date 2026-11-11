@@ -10,7 +10,7 @@
 - 🪟 More on my GitHub  - [avriHereHomeRepos](https://github.com/Avri-Here?tab=repositories) ..
 <br/>
 
-## Talk is cheap -  see my code and md plan 😉 ..
+## Talk is cheap - See my code and plan 😉 ..
 
 
 Always like to learn new topics And technologies, I write code in different languages And computer technician in my free time !
