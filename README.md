@@ -10,10 +10,11 @@
 - 🪟 More on my GitHub  - [avriHereHomeRepos](https://github.com/Avri-Here?tab=repositories) ..
 <br/>
 
+## Talk is cheap -  see my code and md plan 😉 ..
+
+
 Always like to learn new topics And technologies, I write code in different languages And computer technician in my free time !
 <br/>
-Talk is cheap - See my code !
-
 
 ## 🌐 Socials :
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/avraham-yom-tov-a74525231/)
@@ -93,5 +94,4 @@ Talk is cheap - See my code !
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-## Talk is cheap -  see my code !
 
